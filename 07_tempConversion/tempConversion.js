@@ -17,7 +17,7 @@ const ctof = function(cTemp) {
 console.log(ftoc(63))
 console.log(ctof(55))
 // Do not edit below this line
-//module.exports = {
-  //ftoc,
-  //ctof
-//};
+module.exports = {
+  ftoc,
+  ctof
+};
